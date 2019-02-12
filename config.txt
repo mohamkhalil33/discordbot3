@@ -1,0 +1,6 @@
+owner=415142691282616330
+prefix=$
+game= Arab Unity | !help | !!xLewis .
+stayinchannel=true
+songinstatus=false
+token=NTQyMzM1NjcwNDgwMjczNDE5.D0SA0Q.9mcdll8LRVmo7dCsoD6qRutE4pU
